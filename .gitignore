@@ -4,6 +4,7 @@
 .settings
 .myumldata
 target
+**/target
 src/main/webapp/frontend/libs
 liquibase.properties
 db/temp
@@ -14,3 +15,4 @@ runMaven.sh
 src/main/webapp/META-INF
 .externalToolBuilders/
 *.iml
+target/dependency-check/
